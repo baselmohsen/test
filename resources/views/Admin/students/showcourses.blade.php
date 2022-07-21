@@ -7,7 +7,7 @@
   <a class="btn btn-sm btn-primary" href="{{route('Admin.students.create')}}"><i class="fa-solid fa-plus"></i> add students</a>
 </div>
 
-<h3>the courses that this student enter</h3>
+<h3>the students in the course</h3>
 
 
 <table class="table">
